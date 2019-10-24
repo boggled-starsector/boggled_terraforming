@@ -1,0 +1,3 @@
+name,id,planetary,decivRemove,script,desc,icon,order
+Stellar Mirror,stellar_mirror,,FALSE,data.campaign.econ.conditions.Stellar_Mirror,"$market has an array of stellar mirrors in orbit. Without the mirrors, climate conditions would begin to deteriorate.",graphics/icons/conditions/solar_mirror.png,5000
+Stellar Shade,stellar_shade,,FALSE,data.campaign.econ.conditions.Stellar_Shade,"$market has an array of stellar shades in orbit. Without the shades, climate conditions would begin to deteriorate.",graphics/icons/conditions/solar_shade.png,5000
