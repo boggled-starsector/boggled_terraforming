@@ -1,4 +1,0 @@
-name,id,planetary,decivRemove,script,desc,icon,order
-Stellar Mirror,stellar_mirror,,FALSE,data.campaign.econ.conditions.Stellar_Mirror,"$market has an array of stellar mirrors in orbit. Without the mirrors, environmental conditions would begin to deteriorate.",graphics/icons/conditions/solar_mirror.png,5000
-Stellar Shade,stellar_shade,,FALSE,data.campaign.econ.conditions.Stellar_Shade,"$market has an array of stellar shades in orbit. Without the shades, environmental conditions would begin to deteriorate.",graphics/icons/conditions/solar_shade.png,5000
-Deterraforming Tracker (hidden),deterraforming_tracker,,TRUE,data.campaign.econ.conditions.Deterraforming_Tracker,Hidden condition to store deterraforming data and code. Does not need an icon.,graphics/icons/conditions/blank_img.png,5000
