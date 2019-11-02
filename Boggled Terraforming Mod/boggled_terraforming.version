@@ -2,7 +2,7 @@
     # Points toward the online master .version file. This mod works by comparing
     # the local and online version to see if there is a newer version available.
     #
-    "masterVersionFile":"https://raw.githubusercontent.com/boggled-starsector/boggled_terraforming/master/boggled_terraforming.version",
+    "masterVersionFile":"https://github.com/boggled-starsector/boggled_terraforming/raw/master/Boggled%20Terraforming%20Mod/boggled_terraforming.version",
     # The name that is displayed in-game for your mod
     "modName":"Boggled's Terraforming Mod",
     # The ID of the thread where updates to this mod can be found (optional).
