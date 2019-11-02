@@ -1,7 +1,7 @@
 {
 	"id":"Boggled Terraforming",
 	"name":"Boggled Terraforming",
-	"version":"1.0.0",
+	"version":"1.0.1",
 	"author": "boggled",
 	"description":"Use various terraforming structures to improve market conditions.",
 	"gameVersion":"0.9.1a",
