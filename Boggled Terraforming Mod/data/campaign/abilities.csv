@@ -1,0 +1,2 @@
+name,id,type,tags,activationDays,activationCooldown,durationDays,deactivationDays,deactivationCooldown,unlockedAtStart,defaultForAIFleet,musicSuppression,uiOn,uiOff,uiLoop,worldOn,worldOff,worldLoop,icon,plugin,ai,desc,sortOrder
+Activate E.U.T.E.C.K.,boggled_activate_euteck,DURATION,"",0,,0,0,1,TRUE,FALSE,,,,,,,,graphics/icons/abilities/euteck.png,data.campaign.econ.abilities.Activate_euteck,,"Activate a E.U.T.E.C.K. to terraform the closest world controlled by your faction. This will permanently consume the E.U.T.E.C.K.",5000
