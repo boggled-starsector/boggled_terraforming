@@ -2,4 +2,4 @@ name,id,planetary,decivRemove,script,desc,icon,order
 Stellar Mirror,stellar_mirror,,FALSE,data.campaign.econ.conditions.Stellar_Mirror,"$market has an array of stellar mirrors in orbit. Without the mirrors, environmental conditions would begin to deteriorate.",graphics/icons/conditions/solar_mirror.png,5000
 Stellar Shade,stellar_shade,,FALSE,data.campaign.econ.conditions.Stellar_Shade,"$market has an array of stellar shades in orbit. Without the shades, environmental conditions would begin to deteriorate.",graphics/icons/conditions/solar_shade.png,5000
 Deterraforming Tracker (hidden),deterraforming_tracker,,FALSE,data.campaign.econ.conditions.Deterraforming_Tracker,Hidden condition to store deterraforming data and code. Does not need an icon.,graphics/icons/conditions/blank_img.png,5000
-E.U.T.E.C.K. Active,euteck_active,,FALSE,data.campaign.econ.conditions.Euteck_Active,"There is an active E.U.T.E.C.K. on $market.",graphics/icons/conditions/euteck_active.png,5000
+Miller-Urey Device Active,euteck_active,,FALSE,data.campaign.econ.conditions.Euteck_Active,"There is an active Miller-Urey device on $market.",graphics/icons/conditions/euteck_active.png,5000
