@@ -1,0 +1,9 @@
+{
+	"graphics":
+	{
+		"boggled":
+		{
+			"drone_control":"graphics/icons/industry/drone_control.png",
+		},
+	}
+}
