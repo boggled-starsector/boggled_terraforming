@@ -1,11 +1,29 @@
-{
-	"boggledAtmosphereAdjusterClearsPollution":true,
 
+{
+	"ruleCommandPackages":[
+		"data.campaign.quests"
+	],
+
+	"boggledAtmosphereAdjusterClearsPollution":true,
+	"boggledLobsterQuestEnabled":true,
+	"boggledMillerUreyDeviceFixesGravityConditions":false,
+	"boggledMillerUreyDeviceFixesTectonicConditions":false,
+	"boggledMillerUreyDeviceCanBePurchasedFromBlackMarket":false,
+	
 	"graphics":
 	{
 		"boggled":
 		{
 			"drone_control":"graphics/icons/industry/drone_control.png",
+			"drone_control_gray":"graphics/icons/industry/drone_control_gray.png",
+			"mass_driver_gray":"graphics/icons/industry/mass_driver_gray.png",
+
+			"portrait_lobster_pirate":"graphics/portraits/portrait_lobster_pirate.png",
+			"portrait_cruor_commandant":"graphics/portraits/portrait_cruor_commandant.png",
+			"portrait_elena_vega":"graphics/portraits/portrait_elena_vega.png",
+			"portrait_adrien":"graphics/portraits/portrait_adrien.png",
+			"portrait_zhang":"graphics/portraits/portrait_zhang.png",
+			"the_crustacean_job_intel":"graphics/icons/intel/the_crustacean_job.png",
 		},
 	}
 }
