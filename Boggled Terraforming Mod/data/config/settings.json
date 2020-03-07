@@ -4,11 +4,23 @@
 		"data.campaign.quests"
 	],
 
+	#Controls whether the atmosphere adjuster can be used to clear the pollution condition
 	"boggledAtmosphereAdjusterClearsPollution":true,
+	
+	#Enables/disables the lobster quest. Setting this to false will immediately enable lobster
+	#seeding. Note that the quest cannot be initiated if the player is using random core worlds.
 	"boggledLobsterQuestEnabled":true,
+	
+	#Controls whether terraforming with the Miller-Urey Device will fix tectonic and/or gravitic conditions
 	"boggledMillerUreyDeviceFixesGravityConditions":false,
 	"boggledMillerUreyDeviceFixesTectonicConditions":false,
+	
+	#If enabled, the player will be able to purchase MUDs from black markets on planets with ruins
 	"boggledMillerUreyDeviceCanBePurchasedFromBlackMarket":false,
+
+	#Controls how many months terraforming takes with stellar reflectors and MUDs respectively
+	"boggledTerraformingNumberOfMonthsToFinishTerraformingWithStellarReflectors":24,
+	"boggledTerraformingNumberOfMonthsToFinishTerraformingWithMUD":12,
 	
 	"graphics":
 	{
